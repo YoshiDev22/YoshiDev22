@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about the IoT world and data analysis.
 - 👯 I’m looking to collaborate on IoT Projects
 - 🤔 I’m looking for help with data analysis
-- 💬 Ask me about C/C++
+- 💬 Ask me about C/C++ & IoT Devices
 
 I will be updating my repositories to share some projects, I hope you find them useful.
 
